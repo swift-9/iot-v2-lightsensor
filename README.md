@@ -88,9 +88,9 @@ on the OLED in real time.
 ---
 
 ## 🔮 Next Steps in IoT Roots Series
-- 🌱 #2: Soil Moisture + OLED Monitoring  
-- 🌱 #3: Automated Plant Watering System  
-- 🌱 #4: Mini Smart Greenhouse  
+- 🌱 #3: Soil Moisture + OLED Monitoring  
+- 🌱 #4: Automated Plant Watering System  
+- 🌱 #5: Mini Smart Greenhouse  
 
 ---
 
