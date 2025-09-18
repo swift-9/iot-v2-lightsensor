@@ -1,4 +1,4 @@
-# 🌱 IoT Roots #1 – ESP8266 to ESP32 Weather Display
+# 🌱 IoT Roots #2 – ESP8266 to ESP32 Weather Display
 
 This project is part of the **IoT Roots Series**, where we start from simple IoT communication projects and gradually build toward a **complete Agri-IoT system** 🌾.  
 
