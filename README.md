@@ -13,7 +13,7 @@ In this project:
 
 - ESP8266 (DHT22 + BH1750) -> ESP-NOW -> ESP32 (OLED Display)
 
-# <img src="sss.jpg" alt="screenshot"></img>
+# <img src="ss.jpg" alt="screenshot"></img>
 
 
 ---
